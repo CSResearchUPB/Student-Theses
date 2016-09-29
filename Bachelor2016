@@ -1,26 +1,25 @@
 # Theses Description 2016 - 2017
 
-
 Big Data Analytics
 
-1) IoT Analytics System
+1) IoT Analytics System - 1 student
   - automatic data approximation
-  - sensor correlation
-  - 
-2) Visualize IoT data with Apache Zeppelin Notebook
- 
+  - sensor correlation for root cause analysis
+2) Visualize real-time IoT data with Apache Zeppelin Notebook - 1 student
 
 IoT and Ontologies:
-1) IoT Smart Farming: Monitoring the environment using ontologies and sensor data
+1) IoT Smart Farming: Monitoring the environment using ontologies and sensor data - 2 students
+  - Model a plant ontology
+  - Use sensor data to correlate information
+  - Reason new rules
 
 Distributed processing systems:
-
-1) Build a simple distributed processing system using the Akka framework (Actor Model)
+1) Build a simple distributed processing system using the Akka framework (Actor Model) - 1 student
 
 Scalability in Big Data Systems
 
 Master:
-1) Automatic Service Provisioning in Hadoop Clusters
+1) Automatic Service Provisioning in Hadoop Clusters - 1 student
  - Extend current tests to GRID 5000.
  - Define more abstract components to scale
  - Use machine learning for smarter scaling decisions
