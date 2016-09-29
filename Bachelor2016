@@ -1,2 +1,26 @@
-# Thesis
-Thesis Description Repository
+# Theses Description 2016 - 2017
+
+
+Big Data Analytics
+
+1) IoT Analytics System
+  - automatic data approximation
+  - sensor correlation
+  - 
+2) Visualize IoT data with Apache Zeppelin Notebook
+ 
+
+IoT and Ontologies:
+1) IoT Smart Farming: Monitoring the environment using ontologies and sensor data
+
+Distributed processing systems:
+
+1) Build a simple distributed processing system using the Akka framework (Actor Model)
+
+Scalability in Big Data Systems
+
+Master:
+1) Automatic Service Provisioning in Hadoop Clusters
+ - Extend current tests to GRID 5000.
+ - Define more abstract components to scale
+ - Use machine learning for smarter scaling decisions
