@@ -18,7 +18,7 @@ Distributed processing systems:
 
 Scalability in Big Data Systems
 
-Automatic Service Provisioning in Hadoop Clusters - 2 students / 1 M student
- - Extend current tests to GRID 5000.
+1) Automatic Service Provisioning in Hadoop Clusters - 2 students / 1 M student
+ - Extend current tests to GRID5000.
  - Define more abstract components to scale
  - Use machine learning for smarter scaling decisions
