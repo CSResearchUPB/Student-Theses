@@ -8,7 +8,7 @@ Big Data Analytics
 2) Visualize real-time IoT data with Apache Zeppelin Notebook - 1 student
 
 IoT and Ontologies:
-1) IoT Smart Farming: Monitoring the environment using ontologies and sensor data - 2 students
+1) IoT Smart Farming: Monitoring the environment using ontologies and sensor data - 2 students / 1 M Student
   - Model a plant ontology
   - Use sensor data to correlate information
   - Reason new rules
@@ -18,8 +18,7 @@ Distributed processing systems:
 
 Scalability in Big Data Systems
 
-Master:
-1) Automatic Service Provisioning in Hadoop Clusters - 1 student
+Automatic Service Provisioning in Hadoop Clusters - 2 students / 1 M student
  - Extend current tests to GRID 5000.
  - Define more abstract components to scale
  - Use machine learning for smarter scaling decisions
