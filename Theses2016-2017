@@ -1,14 +1,27 @@
 # Theses Description 2016 - 2017
 
-Big Data Analytics
+IoT Analytics Smart Greenhouses:
 
-1) IoT Analytics System - 1 student
-  - automatic data approximation
-  - sensor correlation for root cause analysis
-2) Visualize real-time IoT data with Apache Zeppelin Notebook - 1 student
+1) Automatic data sampling for sensor based modelling - 1 student
 
-IoT and Ontologies:
-1) IoT Smart Farming: Monitoring the environment using ontologies and sensor data - 2 students / 1 M Student
+As part of a Big Data platform, the student will work on the analytics engine and build an application that models real-time sensor 
+data using distributed machine learning techniques. The application will adapt and adjust the computation to the volume of 
+streaming data.
+
+Keywords: data sampling, machine learning, time series modelling, IoT, Big Data, distributed processing
+
+2) Using a time series generator extend the reasoning experiments on multiple domains - 1 student
+
+As part of a Big Data platform, the student will work on the analytics engine to extend the current machine learning anomaly detection 
+mechanism. The user will implement known machine learning algorithms on multiple datasets, both real and synthetic in order to refine
+and prove the effectiveness of the system.
+
+Keywords: data sampling, machine learning, time series modelling, IoT, Big Data, distributed processing
+
+3) Collocate and cluster (distance-based) sensor data for root cause analysis 
+
+Semantic IoT for Greenhouses:
+1) IoT Smart Farming: Monitoring the environment using semantinc and sensor data - 2 students / 1 M Student
   - Model a plant ontology
   - Use sensor data to correlate information
   - Reason new rules
@@ -16,8 +29,8 @@ IoT and Ontologies:
 Distributed processing systems:
 1) Build a distributed processing system using the Akka framework (Actor Model) - 1 student
 
-IoT Middelware:
-1) Design and build an IoT middleware - TBD
+IoT Middleware:
+1) Design and build an IoT middleware using an integration framework - TBD
 
 Scalability in Big Data Systems
 
