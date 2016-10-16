@@ -32,15 +32,28 @@ Keywords: sensor machine learning, clustering, data fusion, IoT, Big Data, distr
 in a greenhouse environment. Objectives of the work are: a) Model a plant ontology b) Correlate plant knowledge with sensor data
 c) Raise alerts to adminstrators d) Reason new rules
 
-Distributed processing systems:
-1) Build a distributed processing system using the Akka framework (Actor Model) - 1 student
+Keywords: real-time processing, ontology reasoning, IoT, Big Data, data modelling
 
+B) Scalability in Big Data Systems
+
+# Title: Automatic service provisioning in Big Data systems
+# Students: 2 BS / 1 MS
+# Description: As part of a Big Data platform, the student will extend the current work on an application that provisions services
+in a Hadoop cluster based on the current and forecasted utilization. The objectives of the work are: a) Extend current tests in a
+larger cluster b) Define more abstract components to scale (Processing/Storage/Messaging) c) Use machine learning for smarter scaling 
+decisions.
+
+Keywords: IoT, Big Data, service provisioning, Hadoop clusters, machine learning, scalability
+
+C) Distributed engines for IoT middleware
+
+# Title: Design and build a distributed integration system using the actor model
+# Students: 2 BS / 1 MS
+# Description: The student will 
+
+# Title: Design a distributed IoT middleware solution
+# Students: 2 BS / 1 MS
+# Description
 IoT Middleware:
 1) Design and build an IoT middleware using an integration framework - TBD
 
-Scalability in Big Data Systems
-
-1) Automatic Service Provisioning in Hadoop Clusters - 2 students / 1 M student
- - Extend current tests to GRID5000.
- - Define more abstract components to scale (Processing/Storage/Messaging)
- - Use machine learning for smarter scaling decisions
