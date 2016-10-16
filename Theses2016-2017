@@ -48,12 +48,16 @@ Keywords: IoT, Big Data, service provisioning, Hadoop clusters, machine learning
 C) Distributed engines for IoT middleware
 
 # Title: Design and build a distributed integration system using the actor model
-# Students: 2 BS / 1 MS
-# Description: The student will 
+# Students: 1 or 2 BS / 1 MS
+# Description: Inspired by the current Big Data platform, the student will design and build a prototype of a distributed 
+integration system. The system will be implemented using the actor model programming paradigm and the Akka framework.
 
-# Title: Design a distributed IoT middleware solution
-# Students: 2 BS / 1 MS
-# Description
-IoT Middleware:
-1) Design and build an IoT middleware using an integration framework - TBD
+Keywords: distributed system, Akka framework, Hadoop clusters, real-time integration, Big Data
 
+# Title: Design and prototype a distributed IoT middleware solution
+# Students: 1 or 2 BS / 1 MS
+# Description: The student will design and prototype an integration middleware solution to be used in Big Data/IoT environments. 
+The purpose of the solution is to offer an integration environment for multiple type of components (Hadoop and non-Hadoop) with 
+different roles in a IoT architecture.
+
+Keywords: distributed system, IoT middleware, Hadoop clusters, real-time integration, Big Data
