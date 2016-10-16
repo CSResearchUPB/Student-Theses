@@ -2,11 +2,11 @@
 
 A) IoT Analytics Smart Greenhouses:
 
-# Title: Automatic data sampling for sensor based modelling
+# Title: Automatic data sampling for sensor based machine learning
 # Students: 1 BS
 # Description: As part of a Big Data platform, the student will work on the analytics engine and build an application that models 
-real-time sensor data using distributed machine learning techniques. The application will adapt and adjust the computation sampling 
-to the volume of streaming data.
+real-time sensor data using distributed machine learning techniques. The application will automatically adapt and adjust the 
+computation sampling to the volume of streaming data.
 
 Keywords: data sampling, machine learning, time series modelling, IoT, Big Data, distributed processing
 
