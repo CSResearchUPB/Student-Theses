@@ -1,20 +1,20 @@
 # Theses Description 2016 - 2017
 
-IoT Analytics Smart Greenhouses:
+A) IoT Analytics Smart Greenhouses:
 
-1) Automatic data sampling for sensor based modelling - 1 student
-
-As part of a Big Data platform, the student will work on the analytics engine and build an application that models real-time sensor 
-data using distributed machine learning techniques. The application will adapt and adjust the computation to the volume of 
-streaming data.
+# Title: Automatic data sampling for sensor based modelling
+# Students: 1 BS
+# Description: As part of a Big Data platform, the student will work on the analytics engine and build an application that models 
+real-time sensor data using distributed machine learning techniques. The application will adapt and adjust the computation sampling 
+to the volume of streaming data.
 
 Keywords: data sampling, machine learning, time series modelling, IoT, Big Data, distributed processing
 
-2) Using a time series generator extend the reasoning experiments on multiple domains - 1 student
-
-As part of a Big Data platform, the student will work on the analytics engine to extend the current machine learning anomaly detection 
-mechanism. The user will implement known machine learning algorithms on multiple datasets, both real and synthetic in order to refine
-and prove the effectiveness of the system.
+# Title: Real-time machine learning for anomaly detection 
+# Students: 1 BS
+# Description: As part of a Big Data platform, the student will work on the analytics engine to extend the current machine learning 
+anomaly detection mechanism. The user will implement and extend known machine learning algorithms on multiple datasets, both real and 
+synthetic in order to refine the effectiveness of the system.
 
 Keywords: data sampling, machine learning, time series modelling, IoT, Big Data, distributed processing
 
