@@ -26,14 +26,11 @@ network of sensors. The application will contain a map interface to present insi
 
 Keywords: sensor machine learning, clustering, data fusion, IoT, Big Data, distributed processing
 
-
 # Title: Monitor the greenhouse environment using semantic and sensor data
 # Students: 2 BS / 1 MS
 # Description: As part of a Big Data platform, the student will build an application that offers real-time contextual information 
-in a greenhouse environment. 
-  - Model a plant ontology
-  - Use sensor data to correlate information
-  - Reason new rules
+in a greenhouse environment. Objectives of the work are: a) Model a plant ontology b) Correlate plant knowledge with sensor data
+c) Raise alerts to adminstrators d) Reason new rules
 
 Distributed processing systems:
 1) Build a distributed processing system using the Akka framework (Actor Model) - 1 student
