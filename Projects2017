@@ -1,7 +1,6 @@
 
 # Projects Description 2017
 
-
 A) Smart News:
 
 # Project no 1.1
@@ -56,8 +55,7 @@ D) Distributed engines for IoT middleware
 
 # Project no 4.1
 # Title: Design and build a distributed integration system using the actor model
-# Students: 1 or 2 BS / 1 MS
-# Description: Inspired by the current Big Data platform, the student will design and build a prototype of a distributed 
+# Description: Inspired by the current Big Data platform, the student(s) will design and build a prototype of a distributed 
 integration system. The system will be implemented using the actor model programming paradigm and the Akka framework.
 
 Keywords: distributed system, Akka framework, Hadoop clusters, real-time integration, Big Data
