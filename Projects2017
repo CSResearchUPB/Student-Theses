@@ -4,8 +4,11 @@
 
 A) Smart News:
 
-# Project no 2.1
-# Project no 2.2
+# Project no 1.1
+# Title: News rating app
+
+# Project no 1.2
+# Title: Articles rating app
 
 B) IoT Analytics Smart Greenhouses:
 
@@ -33,39 +36,28 @@ network of sensors. The application will contain a map interface to present insi
 
 Keywords: sensor machine learning, clustering, data fusion, IoT, Big Data, distributed processing
 
-# Project no 2.4
-# Title: Monitor the greenhouse environment using semantic and sensor data
-# Students: 2 BS / 1 MS
-# Description: As part of a Big Data platform, the student will build an application that offers real-time contextual information 
-in a greenhouse environment. Objectives of the work are: a) Model a plant ontology b) Correlate plant knowledge with sensor data
-c) Raise alerts to adminstrators d) Reason new rules
-
-Keywords: real-time processing, ontology reasoning, IoT, Big Data, data modelling
-
 C) Scalability in Big Data Systems
 
-# Title: Automatic service provisioning in Big Data systems
-# Students: 2 BS / 1 MS
-# Description: As part of a Big Data platform, the student will extend the current work on an application that provisions services
-in a Hadoop cluster based on the current and forecasted utilization. The objectives of the work are: a) Extend current tests in a
-larger cluster b) Define more abstract components to scale (Processing/Storage/Messaging) c) Use machine learning for smarter scaling 
-decisions.
+# Project no 3.1
+# Title: Application profiling based on machine learning techniques
+# Description: As part of a Big Data platform, the student(s) will extend the current work of an application that provisions services
+in a Hadoop cluster based on the current and forecasted utilization. The objective of the work is to use machine learning techniques 
+to profile and predict future application usages.
+Keywords: IoT, Big Data, service provisioning, Hadoop clusters, machine learning, scalability
 
+# Project no 3.2
+# Title: Automatic service provisioning in Big Data systems
+# Description: As part of a Big Data platform, the student(s) will extend the current work on an application that provisions services
+in a Hadoop cluster based on the current and forecasted utilization. The objective of the work is to simulate multiple applications 
+running in parallel and implement a security mechanism to isolate the applications.
 Keywords: IoT, Big Data, service provisioning, Hadoop clusters, machine learning, scalability
 
 D) Distributed engines for IoT middleware
 
+# Project no 4.1
 # Title: Design and build a distributed integration system using the actor model
 # Students: 1 or 2 BS / 1 MS
 # Description: Inspired by the current Big Data platform, the student will design and build a prototype of a distributed 
 integration system. The system will be implemented using the actor model programming paradigm and the Akka framework.
 
 Keywords: distributed system, Akka framework, Hadoop clusters, real-time integration, Big Data
-
-# Title: Design and prototype a distributed IoT middleware solution
-# Students: 1 or 2 BS / 1 MS
-# Description: The student will design and prototype an integration middleware solution to be used in Big Data/IoT environments. 
-The purpose of the solution is to offer an integration environment for multiple type of components (Hadoop and non-Hadoop) with 
-different roles in a IoT architecture.
-
-Keywords: distributed system, IoT middleware, Hadoop clusters, real-time integration, Big Data
