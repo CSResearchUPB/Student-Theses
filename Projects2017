@@ -37,6 +37,14 @@ network of sensors. The application will contain a map interface to present insi
 
 Keywords: sensor machine learning, clustering, data fusion, IoT, Big Data, distributed processing
 
+# Project no 2.4
+# Title: Smart Farming Application
+# Description: As part of a Big Data platform, the student(s) will build a mobile application that sends knowledgeable alerts 
+about the lifecycle of the vegetables/fruits he is growing. The application will consist of a semantic database and a distributed
+notification engine and a mobile interface.
+
+Keywords: Big Data, distributed processing, notifications, semantic database
+
 C) Scalability in Big Data Systems
 
 # Project no 3.1
