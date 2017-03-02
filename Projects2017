@@ -6,18 +6,10 @@ A) Smart News:
 # Project no 1.1
 # Title: News rating app
 # Description: As part of a news platform, the student(s) will work on the rating engine and build an application that aggregates
-and rates news articles according to several criteria (e.g. news press backing it up, references used). The application will use
-NLP algorithms and will have a mobile/web interface.
+and rates news articles or posts according to several criteria (e.g. content quality, news agencies backing it up, references used). 
+The application will use NLP and similarity algorithms and will have a mobile/web interface.
 
-Keywords: machine learning, NLP algorithms, Big Data, distributed processing
-
-# Project no 1.2
-# Title: Articles rating app
-# Description: As part of a news platform, the student(s) will work on the rating engine and build an application that aggregates
-and rates articles based on several criterias such as demonstrated facts and references used. The application will use NLP algorithms 
-and will have a mobile/web interface.
-
-Keywords: machine learning, NLP algorithms, Big Data, distributed processing
+Keywords: machine learning, NLP, Big Data, distributed processing
 
 B) IoT Analytics Smart Greenhouses:
 
