@@ -1,6 +1,20 @@
 # Projects Description 2017 - 2018
 
-1) IoT Analytics Smart Greenhouses:
+1) Scalability in Big Data Systems
+# Title: Scalable Web Application for SLA management in a Hadoop cluster
+# Description: As part of a Big Data platform, the student(s) will build a scalable web application that interacts with the Hadoop 
+cluster and allows cluster administrators to manage Hadoop job SLAs (service level agreements) and other information.
+Keywords: big data, service provisioning, web applications, Hadoop, scalability
+
+2) Telecom network automation:
+
+# Title: Machine learning engine that automates network troubleshooting activities
+# Description: Using machine learning algorithms (supervised and unsupervised learning), the student(s) will develop an application that
+correlates spatial and temporal data and generates new rules to automate network troubleshooting activities.
+
+Keywords: machine learning, automation, network troubleshooting, big data
+
+3) IoT Analytics Smart Greenhouses:
 
 # Title: Sensor machine learning for anomaly detection 
 # Description: As part of a Big Data platform, the student(s) will work on the analytics engine to extend the current anomaly detection 
@@ -9,22 +23,7 @@ synthetic in order to refine and extend the effectiveness of the system.
 
 Keywords: sensor machine learning, synthetic data, data generator, time series modelling, IoT, Big Data, distributed processing
 
-2) Scalability in Big Data Systems
-# Title: Application profiling based on machine learning techniques
-# Description: As part of a Big Data platform, the student(s) will extend the current work of an application that provisions services
-in a Hadoop cluster. The objective is to build a scalable web application that will interact with the Hadoop cluster in order to allow 
-the users to manage Hadoop job service level agreements and statistics
-Keywords: big data, service provisioning, web applications, Hadoop, scalability
-
-2) Telecom network automation:
-
-# Title: Design and build a machine learning application that automates telecom network troubleshooting activities
-# Description: Using machine learning algorithms (supervised and unsupervised learning), the student(s) will develop an application that
-correlates both spatial and temporal data and generates new rules to automate network troubleshooting activities.
-
-Keywords: machine learning, automation, network troubleshooting, big data
-
-3) Smart News:
+4) Smart News:
 
 # Title: News rating app
 # Description: As part of a news platform, the student(s) will work on the rating engine and build an application that aggregates
