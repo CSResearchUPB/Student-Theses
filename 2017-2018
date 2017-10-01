@@ -1,0 +1,70 @@
+# Projects Description 2017
+
+A) Smart News:
+
+# Project no 1.1
+# Title: News rating app
+# Description: As part of a news platform, the student(s) will work on the rating engine and build an application that aggregates
+and rates news articles or posts according to several criteria (e.g. content quality, news agencies backing it up, references used). 
+The application will use NLP and similarity algorithms and will have a mobile/web interface.
+
+Keywords: machine learning, NLP, Big Data, distributed processing
+
+B) IoT Analytics Smart Greenhouses:
+
+# Project no 2.1
+# Title: Sensor based real-time machine learning application
+# Description: As part of a Big Data platform, the student(s) will work on the analytics engine and build an application that models 
+real-time sensor data using distributed machine learning techniques. The application will automatically adjust itself to the volume 
+and nature of streaming data.
+
+Keywords: sensor machine learning, time series modelling, IoT, Big Data, distributed processing, data sampling, real-time processing
+
+# Project no 2.2
+# Title: Sensor machine learning for anomaly detection 
+# Description: As part of a Big Data platform, the student(s) will work on the analytics engine to extend the current anomaly detection 
+mechanism. The user will implement and extend known machine learning algorithms on multiple datasets, both real and 
+synthetic in order to refine and extend the effectiveness of the system.
+
+Keywords: sensor machine learning, synthetic data, data generator, time series modelling, IoT, Big Data, distributed processing
+
+# Project no 2.3
+# Title: Root cause analysis in sensor networks.
+# Description: As part of a Big Data platform, the student(s) will build an application that clusters (distance-based) sensor data. 
+The application will use this information to  code logic for Root cause analysis on specific events streamed by a 
+network of sensors. The application will contain a map interface to present insights.
+
+Keywords: sensor machine learning, clustering, data fusion, IoT, Big Data, distributed processing
+
+# Project no 2.4
+# Title: Smart Farming Application
+# Description: As part of a Big Data platform, the student(s) will build a mobile application that sends knowledgeable alerts 
+about the lifecycle of the vegetables/fruits he is growing. The application will consist of a semantic database and a distributed
+notification engine and a mobile interface.
+
+Keywords: Big Data, distributed processing, notifications, semantic database
+
+C) Scalability in Big Data Systems
+
+# Project no 3.1
+# Title: Application profiling based on machine learning techniques
+# Description: As part of a Big Data platform, the student(s) will extend the current work of an application that provisions services
+in a Hadoop cluster based on the current and forecasted utilization. The objective of the work is to use machine learning techniques 
+to profile and predict future application usages.
+Keywords: IoT, Big Data, service provisioning, Hadoop clusters, machine learning, scalability
+
+# Project no 3.2
+# Title: Automatic service provisioning in Big Data systems
+# Description: As part of a Big Data platform, the student(s) will extend the current work on an application that provisions services
+in a Hadoop cluster based on the current and forecasted utilization. The objective of the work is to simulate multiple applications 
+running in parallel and implement a security mechanism to isolate the applications.
+Keywords: IoT, Big Data, service provisioning, Hadoop clusters, machine learning, scalability
+
+D) Distributed engines for IoT middleware
+
+# Project no 4.1
+# Title: Design and build a distributed integration system using the actor model
+# Description: Inspired by the current Big Data platform, the student(s) will design and build a prototype of a distributed 
+integration system. The system will be implemented using the actor model programming paradigm and the Akka framework.
+
+Keywords: distributed system, Akka framework, Hadoop clusters, real-time integration, Big Data
