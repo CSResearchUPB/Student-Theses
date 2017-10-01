@@ -68,3 +68,12 @@ D) Distributed engines for IoT middleware
 integration system. The system will be implemented using the actor model programming paradigm and the Akka framework.
 
 Keywords: distributed system, Akka framework, Hadoop clusters, real-time integration, Big Data
+
+E) Telecom network automation
+
+#
+# Title: Design and build a machine learning application to create rules for automating telecom network troubleshooting
+# Description: Using machine learning algorithms, the student must create an application that does both spatial and temportal corelations and will generate automatically new rules to automate network troubleshooting operations
+
+Keywords: distributed system, Akka framework, Hadoop clusters, real-time integration, Big Data
+
