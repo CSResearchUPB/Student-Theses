@@ -1,18 +1,7 @@
-# Projects Description 2017
+# Projects Description 2017 - 2018
 
-A) Smart News:
+1) IoT Analytics Smart Greenhouses:
 
-# Project no 1.1
-# Title: News rating app
-# Description: As part of a news platform, the student(s) will work on the rating engine and build an application that aggregates
-and rates news articles or posts according to several criteria (e.g. content quality, news agencies backing it up, references used). 
-The application will use NLP and similarity algorithms and will have a mobile/web interface.
-
-Keywords: machine learning, NLP, Big Data, distributed processing
-
-B) IoT Analytics Smart Greenhouses:
-
-# Project no 2.2
 # Title: Sensor machine learning for anomaly detection 
 # Description: As part of a Big Data platform, the student(s) will work on the analytics engine to extend the current anomaly detection 
 mechanism. The user will implement and extend known machine learning algorithms on multiple datasets, both real and 
@@ -20,11 +9,19 @@ synthetic in order to refine and extend the effectiveness of the system.
 
 Keywords: sensor machine learning, synthetic data, data generator, time series modelling, IoT, Big Data, distributed processing
 
-E) Telecom network automation
+2) Telecom network automation:
 
-# Project no 5.1
 # Title: Design and build a machine learning application that automates telecom network troubleshooting activities
-# Description: Using machine learning algorithms (supervised and unsupervised learning), the student must create an application that 
+# Description: Using machine learning algorithms (supervised and unsupervised learning), the student(s) must develop an application that
 correlates both spatial and temporal data and generates new rules to automate network troubleshooting activities.
 
 Keywords: machine learning, automation, network troubleshooting, big data
+
+3) Smart News:
+
+# Title: News rating app
+# Description: As part of a news platform, the student(s) will work on the rating engine and build an application that aggregates
+and rates news articles or posts according to several criteria (e.g. content quality, news agencies backing it up, references used). 
+The application will use NLP and similarity algorithms and will have a mobile/web interface.
+
+Keywords: machine learning, NLP, Big Data, distributed processing
