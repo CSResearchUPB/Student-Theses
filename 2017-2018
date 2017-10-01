@@ -9,10 +9,17 @@ synthetic in order to refine and extend the effectiveness of the system.
 
 Keywords: sensor machine learning, synthetic data, data generator, time series modelling, IoT, Big Data, distributed processing
 
+2) Scalability in Big Data Systems
+# Title: Application profiling based on machine learning techniques
+# Description: As part of a Big Data platform, the student(s) will extend the current work of an application that provisions services
+in a Hadoop cluster. The objective is to build a scalable web application that will interact with the Hadoop cluster in order to allow 
+the users to manage Hadoop job service level agreements and statistics
+Keywords: big data, service provisioning, web applications, Hadoop, scalability
+
 2) Telecom network automation:
 
 # Title: Design and build a machine learning application that automates telecom network troubleshooting activities
-# Description: Using machine learning algorithms (supervised and unsupervised learning), the student(s) must develop an application that
+# Description: Using machine learning algorithms (supervised and unsupervised learning), the student(s) will develop an application that
 correlates both spatial and temporal data and generates new rules to automate network troubleshooting activities.
 
 Keywords: machine learning, automation, network troubleshooting, big data
