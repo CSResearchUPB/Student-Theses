@@ -29,3 +29,11 @@ synthetic in order to refine and extend the effectiveness of the system.
 and rates news articles or posts according to several criteria (e.g. content quality, sentiment analysis, news agencies reputation, 
 references used). The application will use NLP and similarity algorithms and will have a mobile/web interface.
 # Keywords: machine learning, NLP, Big Data, sentiment analysis, news
+
+5) Automatic bug fixing
+
+# Title: Automatic bug fixing application
+# Description: The objective of the work is to build an application that is able to automate certain types of bugs that usually appear 
+during the software development process using one or more approaches.
+(more information at https://en.wikipedia.org/wiki/Automatic_bug_fixing)
+# Keywords: automatic bug fixing, machine learning, software development
