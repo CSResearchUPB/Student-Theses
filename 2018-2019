@@ -1,0 +1,17 @@
+# Projects Description 2018 - 2019 in collaboration with Ericsson Romania
+
+2) IoT & Telecom Smart networks:
+
+# Title: Clustering site profiles
+# Description: Using machine learning algorithms (supervised and unsupervised learning), the student(s) will develop an application that
+correlates spatial and temporal data to build profiles of telecom sites and try to predict certain things like the possibility of a future outage.
+# Keywords: machine learning, automation, network troubleshooting, big data
+
+# Title: Network map visualizer
+# Description: The student(s) will develop a geographic information system (GIS) application that will offer the possibility to visualize entire network information 
+on a map. The challenge is to choose the technologies so that large volumes of data will be shown in the user interface
+# Keywords: automation, network visualization, big data, GIS, performance tuning
+
+# Title: Android - Web Chat
+# Description: The student(s) will develop a messaging solution with chat, audio and video capabilities exposed via two clients: a web version and an Android version. The application needs to be reliable in slow data coverage. 
+# Keywords: automation, network visualization, big data, GIS, performance tuning
